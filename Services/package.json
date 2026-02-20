@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axois": "^0.0.1-security",
+    "react-router-dom": "^7.13.0"
+  }
+}
