@@ -11,7 +11,7 @@ public class GlobalCorsConfig {
 
     @Bean
     public CorsWebFilter corsWebFilter() {
-
+        //1️⃣
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowCredentials(true);
         config.addAllowedOrigin("http://localhost:3000");
